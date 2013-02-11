@@ -6040,6 +6040,10 @@ a.badge:hover {
 
 /* My styles */
 
+.post {
+  margin-top: 30px;
+}
+
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
